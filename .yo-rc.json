@@ -36,7 +36,7 @@
     "enableTranslation": true,
     "nativeLanguage": "en",
     "languages": ["en", "es"],
-    "herokuAppName": "spingular-chat",
+    "herokuAppName": "aqueous-temple-28787",
     "herokuDeployType": "git"
   }
 }
