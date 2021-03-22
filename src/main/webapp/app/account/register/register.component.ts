@@ -44,6 +44,7 @@ export class RegisterComponent implements OnInit, AfterViewInit {
     this.renderer.invokeElementMethod(this.elementRef.nativeElement.querySelector('#login'), 'focus', []);
   }
 
+
   register() {
     let registerAccount = {};
     const login = this.registerForm.get(['login']).value;
